@@ -50,7 +50,7 @@
 
 -(void)testFromGithub{
 	
-	NSLog(@"Hello,Github!);
+    NSLog(@"我再次更改这句话！");
 }
 
 @end
