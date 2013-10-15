@@ -12,6 +12,8 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
+    
+    NSLog(@"Hi,I begin to understand how to use Git.I feel happy!");
     // Override point for customization after application launch.
     return YES;
 }
