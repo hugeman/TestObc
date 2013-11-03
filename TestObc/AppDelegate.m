@@ -12,7 +12,7 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
-    
+    NSLog(@"I am add text --hello ,201311.03");
     NSLog(@"Hi,I begin to understand how to use Git.I feel happy!");
     // Override point for customization after application launch.
     return YES;
